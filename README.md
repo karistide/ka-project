@@ -1,2 +1,2 @@
-# ka-project
-This repo contains all my school assignments
+# Challanges
+This repo contains all my LinkedIn challanges
